@@ -1,5 +1,5 @@
 # Welcome!
-Hello, my name is Thomas Billman and I am an undergraduate Data Analyst for Dr. Ann Stapleton.
+Hello, my name is Julia and I am an undergraduate Data Analyst for Dr. Ann Stapleton.
 This Github contains the code that I have written, files that I have analyzed, and output I have generated through the course of this job.
 The majority of my work has been done in RStudio, with some computing help from the supercomputer Stampede2 (formerly Stampede) which is maintained by TACC (Texas Advanced Computing Center).
 
